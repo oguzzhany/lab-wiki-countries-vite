@@ -40,3 +40,20 @@
 .read-the-docs {
   color: #888;
 }
+
+.divStyle {
+  max-height: 90vh;
+  overflow: scroll;
+}
+
+.tdStyle {
+  width: 30%;
+}
+
+nav {
+  width: 800px;
+}
+
+img {
+  width: 50px;
+}
